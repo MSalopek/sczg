@@ -1,0 +1,15 @@
+Category:   N(ad)
+-----------------
+Turizam:       2,
+Ciscenje:     16,                   
+Proizvodnja:  13,                
+Admin:        25,                      
+Fizicki:      28,                    
+Promo:        26, +                     
+Skladiste:    46,                  
+Razno:        48, +                      
+Ugostitelji:  59, +               
+Trgovina:     62,
+Idex:        141,
+-----------------    
+TOTAL:       466
